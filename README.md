@@ -22,8 +22,10 @@
          <h3> Neymar na temporada <u>22/23</u> </h3>
     <p> Neymar soma 12 jogos, 11 gols e chegou agora a 10 assistências. Pelo PSG, foram 11 jogos, 11 gols e 8 assistências. Sua participação em gols na temporada de é 1,75 por partida — 21 participações em 12 jogos.
     </p>
-      <a href="https://www.uol.com.br/esporte/colunas/rodolfo-rodrigues/2022/09/23/inicio-de-temporada-de-neymar-e-sensacional-e-empolga-a-selecao.htm">neymar sensacional</a>
-      <p>
+     <p> 
+<a href="https://www.uol.com.br/esporte/colunas/rodolfo-rodrigues/2022/09/23/inicio-de-temporada-de-neymar-e-sensacional-e-empolga-a-selecao.htm">neymar sensacional</a> 
+     <p/>
+    <p>
       <strong>CRISTIANO</strong>
       <img width="100" src="https://www.designi.com.br/images/preview/10043934.jpg" alt="SIIIIIII">
       <ul>
@@ -48,8 +50,10 @@
               <li><mark>💯 Nota SofaScore 6.73</mark></li>  
          </ul>
        </p>
+        <p>
        <a href="https://www.sofascore.com/player/cristiano-ronaldo/750">CR7 aposentado</a>
-       <p>
+        </p>
+  <p>
            <strong>LIONEL MESSI</strong>
            <img width="100" src="https://www.designi.com.br/images/preview/10267819.jpg" alt="thom ex da duda">
            <ul>
