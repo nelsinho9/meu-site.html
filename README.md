@@ -78,9 +78,8 @@
            <p>
            <h4>Messi e Neymar vem jogando muito e Cristiano ainda tenta se encontrar no futebol inglês</h4>
            </p>
-   <p>
-
-               Neymar<sup>jr</sup> e Lionel<sup>Messi</sup> estão com um otimo preparo para a copa do Mundo no Qatar<sub>2022</sub> em Novembro/dezembro, Cristiano vem forte com a seleção portuguesa mas os últimos jogos no quesito individual do atleta nak vêem agradando muito as ronaldetes.
+           <p>
+Neymar<sup>jr</sup> e Lionel<sup>Messi</sup> estão com um otimo preparo para a copa do Mundo no Qatar<sub>2022</sub> em Novembro/dezembro, Cristiano vem forte com a seleção portuguesa mas os últimos jogos no quesito individual do atleta nak vêem agradando muito as ronaldetes.
            <h5>Neymar vem com toda força de uma nação</h5>
            <h6>grupo do Brasil</h6> 
                <ol>
@@ -95,6 +94,6 @@
                
                
                
-           </p> 
+           
 </body>
 </html>
