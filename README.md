@@ -27,8 +27,10 @@
      <p/>
     <p>
       <strong>CRISTIANO</strong>
-      <img width="100" src="https://www.designi.com.br/images/preview/10043934.jpg" alt="SIIIIIII">
-      <ul>
+   <p>
+   <img width="100" src="https://www.designi.com.br/images/preview/10043934.jpg" alt="SIIIIIII">
+   </p>
+   <ul>
          <li>Nasc./Idade: 05/02/1985 (37)</li>
          <li>Nacionalidade: Portugal</li>
          <li>Altura: 1,87 m</li>  
@@ -55,8 +57,10 @@
         </p>
   <p>
            <strong>LIONEL MESSI</strong>
-           <img width="100" src="https://www.designi.com.br/images/preview/10267819.jpg" alt="thom ex da duda">
-           <ul>
+         <p>
+  <img width="100" src="https://www.designi.com.br/images/preview/10267819.jpg" alt="thom ex da duda">
+         <p/>
+     <ul>
                <li>Nasc./Idade: 24/06/1987 (35 anos)</li>
                <li>Nacionalidade: Argentina Argentina</li>
                <li>Altura: 1,70 m</li>
